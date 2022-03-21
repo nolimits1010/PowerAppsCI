@@ -27,6 +27,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://orgea190ff9.crm.dynamics.com/'
+  USERNAME: 'richw@skynet202220.onmicrosoft.com'
   CLIENT_ID: 'ed2d6d44-92a8-4d12-b922-cd40aaf8fb3e'
   TENANT_ID: 'c3acf596-3188-4b24-9eba-a7baef45f8f6'
 
